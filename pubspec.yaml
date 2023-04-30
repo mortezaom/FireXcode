@@ -15,6 +15,8 @@ dependencies:
       url: https://github.com/Sar777/animated_interpolation.git
       ref: master
   json_ast:
+    git:
+      url: https://github.com/matnex-mix/json_ast.git
   dart_style: ^2.0.0
   process_run: ^0.12.1
   console_cmd: ^1.0.5
