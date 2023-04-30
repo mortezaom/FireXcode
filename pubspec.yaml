@@ -14,7 +14,7 @@ dependencies:
     git:
       url: https://github.com/Sar777/animated_interpolation.git
       ref: master
-  json_ast: ^1.0.5
+  json_ast:
   dart_style: ^2.0.0
   process_run: ^0.12.1
   console_cmd: ^1.0.5
