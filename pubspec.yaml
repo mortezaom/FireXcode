@@ -19,7 +19,9 @@ dependencies:
       url: https://github.com/matnex-mix/json_ast.git
   dart_style: ^2.0.0
   process_run: ^0.12.1
-  console_cmd: ^1.0.5
+  console_cmd:
+    git:
+      url: https://github.com/trustmefelix/console_cmd.git
   meta: ^1.3.0
   _fe_analyzer_shared:
 
