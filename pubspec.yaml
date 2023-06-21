@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   animated_interpolation:
     git:
-      url: https://github.com/Sar777/animated_interpolation.git
+      url: https://github.com/mortezaom/animated_interpolation.git
       ref: master
   json_ast:
     git:
